@@ -1,4 +1,4 @@
-# cosmicmod-overlay
+# cosmicmod-overlay This is a deprecated overlay just kept for possible future use
 CosmicMod main ebuild repo
 
 to use this repo add cosmicmod-overlay via layman
